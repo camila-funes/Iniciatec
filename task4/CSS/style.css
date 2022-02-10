@@ -1,0 +1,19 @@
+#logo{
+    height: 8vh;
+}
+.email{
+    margin-left: 10px;
+}
+
+#imghome{
+    height: 30vh;
+}
+footer{
+    background-color: #f8f9fa ;
+    height: 5vh;
+}
+
+footer > p{
+    margin: 0;
+    font-weight: bold;
+}
